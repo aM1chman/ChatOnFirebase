@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="send">send</string>
+    <string name="message">Message</string>
+    <string name="google_sign_in">google sign in</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
